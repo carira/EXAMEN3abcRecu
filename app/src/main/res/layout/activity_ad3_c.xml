@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AD3C">
+
+    <TextView
+        android:id="@+id/ad3c_txt_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="@string/listados_disponibles"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/ad3c_todos_los_estudiantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/todos_los_estudiantes" />
+
+    <Button
+        android:id="@+id/ad3c_estudiantes_por_ciclo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/estudiantes_por_ciclo" />
+
+    <Button
+        android:id="@+id/ad3c_estudiantes_por_curso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/estudiantes_por_curso" />
+
+    <Button
+        android:id="@+id/ad3c_todos_los_profesores"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/todos_los_profesores" />
+
+    <Button
+        android:id="@+id/todos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/todos_los_profesores_y_estudiantes" />
+
+    <Button
+        android:id="@+id/ad3c_todos_los_estudiantes_por_edad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/estudiantes_entre_20_y_25_a_os" />
+
+    <TextView
+        android:id="@+id/ad3c_espacio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.5" />
+
+    <Button
+        android:id="@+id/ad3c_volver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:text="@string/volver" />
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Mostrar">
+
+
+
+
+    <TextView
+        android:id="@+id/m_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:hint="@string/nombre"
+         />
+
+    <TextView
+        android:id="@+id/m_nombreUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:hint="@string/nombre_de_usuario" />
+
+    <TextView
+        android:id="@+id/m_fNacimiento"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:hint="@string/fecha_de_nacimiento" />
+
+    <TextView
+        android:id="@+id/m_sexo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:hint="@string/sexo" />
+
+    <Button
+        android:id="@+id/m_volver"
+        android:layout_width="190dp"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:text="Volver" />
+
+</LinearLayout>

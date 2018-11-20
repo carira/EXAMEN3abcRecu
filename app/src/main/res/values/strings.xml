@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AD3a</string>
+    <string name="sexo">Sexo:</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="_3b">3B</string>
+    <string name="bienvenido_a_la_actividad_ad3b">Bienvenido a la actividad AD3b</string>
+    <string name="desea_registrar_un_alumno_o_un_profesor">¿Desea registrar un alumno o un profesor?</string>
+    <string name="registro_de_alumnos">Registro de alumnos</string>
+    <string name="edad">Edad</string>
+    <string name="ciclo">Ciclo</string>
+    <string name="curso">Curso</string>
+    <string name="volver">Volver</string>
+    <string name="registrar">Registrar</string>
+    <string name="registro_de_profesores">Registro de profesores</string>
+    <string name="despacho">Despacho</string>
+    <string name="_3c">3C</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="listados_disponibles">Listados disponibles:</string>
+    <string name="todos_los_estudiantes">Todos los estudiantes</string>
+    <string name="estudiantes_por_ciclo">Estudiantes por ciclo</string>
+    <string name="estudiantes_por_curso">Estudiantes por curso</string>
+    <string name="todos_los_profesores">Todos los profesores:</string>
+    <string name="todos_los_profesores_y_estudiantes">Todos los profesores y estudiantes</string>
+    <string name="buscar">Buscar</string>
+    <string name="todos_los_alumnos">Todos los alumnos:</string>
+    <string name="estudiantes_entre_20_y_25_a_os">Estudiantes entre 20 y 25 años</string>
+    <string name="asignaturas">Asignaturas</string>
+    <string name="registrar_asignatura">Asignatura:</string>
+    <string name="n_mero_de_estudiantes">Número de estudiantes :</string>
+</resources>
